@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;SortedIntlist.java&apos; to &apos;SortedIntList.java&apos;&#x0A;- Original project: &apos;Chapter 9 - Assignment 1 - Part 2&apos;&#x0A;- Original element: &apos;SortedIntlist.java&apos;&#x0A;- Renamed element: &apos;SortedIntList.java&apos;" description="Rename compilation unit &apos;SortedIntlist.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{SortedIntlist.java" name="SortedIntList.java" references="false" stamp="1411369266022" version="1.0"/>
+</session>

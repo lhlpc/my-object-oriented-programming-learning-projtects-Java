@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.eclipse.debug.core.PREF_BREAKPOINT_MANAGER_ENABLED_STATE=true
+org.eclipse.debug.core.USE_STEP_FILTERS=false
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions>\n<expression enabled\="true" text\="(hi+1)"/>\n<expression enabled\="true" text\="(hi+1)/2"/>\n<expression enabled\="true" text\="list[(hi+1)/2]"/>\n<expression enabled\="true" text\="target &gt;\= list[(hi+1)/2"/>\n<expression enabled\="true" text\="lo \=\= hi"/>\n<expression enabled\="true" text\="target &gt;\= list[(hi+1)/2]"/>\n<expression enabled\="true" text\="top++"/>\n<expression enabled\="true" text\="end"/>\n<expression enabled\="true" text\="(end+front)/2"/>\n</watchExpressions>\n

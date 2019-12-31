@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Snippet.java&apos; to &apos;Chapter 14 - Threads - Clock Applet/src&apos;&#x0A;- Original project: &apos;Chapter 14 - Threads - Clock Applet&apos;&#x0A;- Destination element: &apos;Chapter 14 - Threads - Clock Applet/src&apos;&#x0A;- Original element: &apos;Snippet.java&apos;" description="Copy compilation unit" destination="/src" element1="/src&lt;{Snippet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1418669325850" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CS 241 - HW2 - Textbook Exercise 2.47/src/TimeOnTrip.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="TimeOnTrip"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CS 241 - HW2 - Textbook Exercise 2.47"/>
+</launchConfiguration>
